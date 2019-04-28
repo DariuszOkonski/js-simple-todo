@@ -1,3 +1,5 @@
-Simple project todo app created in javascript
+# Simple project todo app created in javascript
 
-author: Dariusz Okonski
+## author: Dariusz Okonski
+
+### license: freeware
