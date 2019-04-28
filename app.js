@@ -6,7 +6,7 @@ const domElements = {
   h1: document.querySelector('h1 span'),
 }
 
-let elements = ['one', 'two', 'three', 'four', 'fours', 'fourss', 'five', 'six', 'seven'];
+let elements = ['one', 'two', 'three', 'four', 'fours', 'fourss', 'five', 'six'];
 
 function removeElement() {
   const index = this.parentNode.dataset.id;
