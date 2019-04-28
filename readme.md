@@ -1,3 +1,3 @@
-Simple project todo app
+Simple project todo app created in javascript
 
 author: Dariusz Okonski
